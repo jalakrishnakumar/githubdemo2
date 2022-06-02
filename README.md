@@ -6,3 +6,5 @@ Added in local repo
 
 
 Added in Beta brach
+
+Added conflict in beta
